@@ -45,7 +45,7 @@ python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Создайте и заполните файл .env:
+Создайте и заполните файл .env (пример .env.sample):
 ```
 FLASK_APP=yacut
 FLASK_ENV=development
